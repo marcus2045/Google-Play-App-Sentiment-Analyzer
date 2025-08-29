@@ -14,8 +14,11 @@ This tool works with any Android app on Google Play. Just replace the APP_ID wit
 
 Some examples:
 Fitbit: com.fitbit.FitbitMobile
+
 Instagram: com.instagram.android
+
 Spotify: com.spotify.music
+
 WhatsApp: com.whatsapp
 
 Dependencies
